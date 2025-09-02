@@ -58,8 +58,8 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img width="47%" src="https://streak-stats.demolab.com?user=SamiFaiza549&theme=tokyonight&hide_border=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiFaiza549&layout=compact&theme=tokyonight" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=adrikachowdhury&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikachowdhury&layout=compact&theme=tokyonight" />
 </p>
 
 <br/>
