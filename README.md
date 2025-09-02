@@ -50,6 +50,12 @@
 <a href="https://numpy.org/">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </a>
+
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+</a>
+
 <!-- Google Colab -->
 <a href="https://colab.research.google.com/">
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
@@ -69,6 +75,11 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </a>
 </p>
+
+<!-- R -->
+<a href="https://www.r-project.org/">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</a>
 
 <br/>
 
