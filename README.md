@@ -17,6 +17,12 @@
 <a href="https://www.tensorflow.org/">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </a>
+
+<!-- Keras -->
+<a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+</a>
+
 <!-- PyTorch -->
 <a href="https://pytorch.org/">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
