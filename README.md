@@ -1,10 +1,36 @@
 ## Hi,👋 I'm Adrika Chowdhury
 
-🎓 Recent Computer Science graduate from Asian University for Women (AUW)  
-💻 NLP & AI Enthusiast  
-🌱 Currently working on a multiclass classification task on NLP  
-🚀 Future Goal: To build impactful AI solutions for real-world problems
-🤝 Eager to learn by collaborating on impactful projects
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: left;">
+    <ul align="left" style="list-style-type: none; padding-left: 0;">
+      <li>🎓 Recent Computer Science graduate from <b>Asian University for Women (AUW)</b></li>
+      <li>💻 <b>NLP & AI Enthusiast</b></li>
+      <li>🌱 Currently working on a <b>multiclass classification task in NLP</b></li>
+      <li>🚀 Future Goal: To build impactful AI solutions for real-world problems</li>
+      <li>🤝 Eager to learn by collaborating on impactful projects</li>
+      <li>🛠️ <b>Technologies I'm Comfortable With</b>:</li>
+      <li style="margin: 5px 0;">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+      </li>
+      <li style="margin: 5px 0;">
+        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/-NLTK-154360?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
+      </li>
+      <li style="margin: 5px 0;">
+        <a href="https://colab.research.google.com/">
+          <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+        </a>
+        <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+      </li>
+    </ul>
+  </div>
+</div>
 
 ## 🔧 Skills & Tools
 <p align="center">
