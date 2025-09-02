@@ -74,12 +74,13 @@
 <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </a>
-</p>
 
 <!-- R -->
 <a href="https://www.r-project.org/">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </a>
+
+</p>
 
 <br/>
 
