@@ -1,4 +1,4 @@
-## Hi,👋 I'm Adrika Chowdhury
+## Hi, :woman_technologist: I'm Adrika Chowdhury
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: left;">
