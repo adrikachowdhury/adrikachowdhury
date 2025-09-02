@@ -7,7 +7,6 @@
 🤝 Eager to learn by collaborating on impactful projects
 
 ## 🔧 Skills & Tools
---
 <p align="center">
 
 <!-- Python -->
