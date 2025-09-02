@@ -57,8 +57,12 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img width="47%" src="https://streak-stats.demolab.com?user=SamiFaiza549&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiFaiza549&layout=compact&theme=tokyonight" />
+</p>
+
+<br/>
 
 ## 🌐 Connect with Me
 
