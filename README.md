@@ -25,6 +25,17 @@
 <a href="https://scikit-learn.org/">
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </a>
+
+<!-- NLTK -->
+<a href="https://www.nltk.org/">
+    <img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+</a>
+
+<!-- Visual Studio Code -->
+<a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</a>
+
 <!-- Pandas -->
 <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
