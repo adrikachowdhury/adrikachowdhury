@@ -6,9 +6,9 @@
       <li>🎓 Recent Computer Science graduate from <b>Asian University for Women (AUW)</b></li>
       <li>💻 <b>NLP & AI Enthusiast</b></li>
       <li>🌱 Currently working on a <b>multiclass classification task in NLP</b></li>
-      <li>🚀 Future Goal: To build impactful AI solutions for real-world problems</li>
+      <li>🚀 <b>Future Goal:</b> To build impactful AI solutions for real-world problems</li>
       <li>🤝 Eager to learn by collaborating on impactful projects</li>
-      <li>🛠️ <b>Technologies I'm Comfortable With</b>:</li>
+      <li>🛠️ <b>Core Technical Skills</b>:</li>
       <li style="margin: 5px 0;">
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
@@ -130,4 +130,10 @@
 <a href="https://facebook.com/adrika.prachi.191/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
+
+<!-- Personal Website -->
+<a href="https://brazen-scissor-ce4.notion.site/Adrika-Chowdhury-1f689da7eed180e5b025d5096626aeb5" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
 📧 Email: adrika.chowdhury@post.auw.edu.bd
