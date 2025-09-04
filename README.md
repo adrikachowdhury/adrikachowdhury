@@ -1,6 +1,6 @@
 # Hi, :woman_technologist: I'm Adrika Chowdhury
 
-## :cupcake: A bit about Me
+## :cupcake: A bit about me
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: left;">
     <ul align="left" style="list-style-type: none; padding-left: 0;">
