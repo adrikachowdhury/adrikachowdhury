@@ -126,6 +126,7 @@
 
 ## 🌐 Connect with Me
 
+I'm always excited to connect and grow through hands-on learning. So feel free to reach out!
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/adrikachowdhury">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
