@@ -1,4 +1,4 @@
-# Hi, :woman_technologist: I'm Adrika Chowdhury
+# Hi, :woman_technologist: I'm Adrika!
 
 ## :cupcake: A bit about me
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
