@@ -107,9 +107,9 @@
 </a>
 
 <!-- R -->
-<a href="https://www.r-project.org/">
+<!-- <a href="https://www.r-project.org/">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</a>
+</a> -->
 
 </p>
 
