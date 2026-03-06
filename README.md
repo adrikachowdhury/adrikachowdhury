@@ -9,7 +9,7 @@
       <li>🌱 Currently working on a <b>multiclass classification task in NLP</b></li>
       <li>🚀 <b>Future Goal:</b> To build impactful AI solutions for real-world problems</li>
       <li>🤝 Eager to learn by collaborating on impactful projects</li>
-      <li>🛠️ <b>Core Technical Skills</b>:</li>
+      <!-- <li>🛠️ <b>Core Technical Skills</b>:</li> -->
       <!-- <div style="margin: 5px 0;">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
@@ -126,6 +126,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
+## 🌼 Beyond Coding
+
+- 🎨 I enjoy creating digital art whenever inspiration strikes  
+- 📚 I like exploring random topics purely out of curiosity  
+- ☕ I appreciate quiet moments with a cup of tea and something creative to work on
 
 ## 🌐 Connect with Me
 
