@@ -4,33 +4,35 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: left;">
     <ul align="left" style="list-style-type: none; padding-left: 0;">
-      <li>🎓 Recent Computer Science graduate from <b>Asian University for Women (AUW)</b></li>
-      <li>💻 <b>NLP & AI Enthusiast</b></li>
+      <li>🎓 Computer Science graduate from <b>Asian University for Women (AUW)</b></li>
+      <li>💻 <b>NLP & GenAI Enthusiast</b></li>
       <li>🌱 Currently working on a <b>multiclass classification task in NLP</b></li>
       <li>🚀 <b>Future Goal:</b> To build impactful AI solutions for real-world problems</li>
       <li>🤝 Eager to learn by collaborating on impactful projects</li>
       <li>🛠️ <b>Core Technical Skills</b>:</li>
-      <div style="margin: 5px 0;">
+      <!-- <div style="margin: 5px 0;">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" />
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-</div>
-<div style="margin: 5px 0;">
+</div> -->
+<!-- <div style="margin: 5px 0;">
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/-NLTK-154360?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
-</div>
-<div style="margin: 5px 0;">
+</div> -->
+<!-- <div style="margin: 5px 0;">
     <a href="https://colab.research.google.com/">
         <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
     </a>
     <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</div>
+</div> -->
   </div>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=adrikachowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="adrikachowdhury" />
 
 ## 🔧 Skills & Tools
 <p align="center">
@@ -118,23 +120,21 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img width="47%" src="https://streak-stats.demolab.com?user=adrikachowdhury&theme=tokyonight&hide_border=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikachowdhury&layout=compact&theme=tokyonight" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=adrikachowdhury&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 🌐 Connect with Me
 
 I'm always excited to connect and grow through hands-on learning. So feel free to reach out!
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/adrikachowdhury">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
-<!-- Facebook -->
-<a href="https://facebook.com/adrika.prachi.191/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+<p align="left">
+<a href="https://www.linkedin.com/in/adrikachowdhury" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adrikachowdhury" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/adrika.prachi.191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adrikachowdhury" height="30" width="40" /></a>
+<a href="mailto:adrika.chowdhury@post.auw.edu.bd" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30"/>
 </a>
-
-📧 Email: adrika.chowdhury@post.auw.edu.bd
+</p>
