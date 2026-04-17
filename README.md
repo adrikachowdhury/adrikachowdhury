@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!👋;Welcome+to+my+GitHub✨;I'm+Adrika👩🏼‍💻;NLP+and+GenAI+Enthusiast🧠&color=FF69B4&size=22&center=true&width=500&pause=900)](https://git.io/typing-svg)
-
 ## :cupcake: A bit about me
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: left;">
