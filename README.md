@@ -136,7 +136,9 @@ I'm always excited to connect and grow through hands-on learning. So feel free t
 
 <p align="left">
 <a href="https://www.linkedin.com/in/adrikachowdhury" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adrikachowdhury" height="30" width="40" /></a>
+  
 <a href="https://fb.com/https://www.facebook.com/adrika.prachi.191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adrikachowdhury" height="30" width="40" /></a>
+
 <a href="mailto:adrika.chowdhury@post.auw.edu.bd" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30"/>
 </a>
