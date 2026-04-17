@@ -73,6 +73,7 @@
 <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </a>
+
 <!-- NumPy -->
 <a href="https://numpy.org/">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -103,9 +104,9 @@
 </a>
 
 <!-- Figma -->
-<a href="https://www.figma.com/">
+<!-- <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</a>
+</a> -- >
 
 <!-- R -->
 <!-- <a href="https://www.r-project.org/">
