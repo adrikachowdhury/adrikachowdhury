@@ -88,9 +88,10 @@
 <a href="https://colab.research.google.com/">
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </a>
-<!-- Hugging Face -->
-<a href="https://huggingface.co/">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+
+<!-- Hugging Face Transformers -->
+<a href="https://huggingface.co/docs/transformers/">
+    <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
 </a>
 
 <!-- Streamlit -->
@@ -101,6 +102,16 @@
 <!-- Git -->
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+
+<!-- Google Gemini -->
+<a href="https://ai.google.dev/">
+    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</a>
+
+<!-- python-dotenv -->
+<a href="https://pypi.org/project/python-dotenv/">
+    <img src="https://img.shields.io/badge/python--dotenv-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-dotenv" />
 </a>
 
 <!-- Figma -->
