@@ -36,93 +36,68 @@
 ## 🔧 Skills & Tools
 <p align="center">
 
-<!-- Python -->
+<!-- Programming -->
 <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
-<!-- TensorFlow -->
-<a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</a>
-
-<!-- Keras -->
-<a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-</a>
-
-<!-- PyTorch -->
-<a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-</a>
-<!-- scikit-learn -->
-<a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</a>
-
-<!-- NLTK -->
-<a href="https://www.nltk.org/">
-    <img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
-</a>
-
-<!-- Visual Studio Code -->
-<a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</a>
-
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</a>
-
-<!-- NumPy -->
-<a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</a>
-
-<!-- Matplotlib -->
-<a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-</a>
-
-<!-- Google Colab -->
-<a href="https://colab.research.google.com/">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</a>
-
-<!-- Hugging Face Transformers -->
-<a href="https://huggingface.co/docs/transformers/">
-    <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
-</a>
-
-<!-- Streamlit -->
-<a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</a>
-
-<!-- Git -->
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
 
-<!-- Google Gemini -->
+<!-- Machine Learning & NLP -->
+<a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</a>
+<a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</a>
+<a href="https://www.nltk.org/">
+    <img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+</a>
+<a href="https://huggingface.co/docs/transformers/">
+    <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+</a>
+
+<!-- LLMs & Generative AI -->
 <a href="https://ai.google.dev/">
     <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </a>
+<a href="https://qdrant.tech/">
+    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+</a>
 
-<!-- python-dotenv -->
+<!-- Backend & APIs -->
+<a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</a>
+<a href="https://www.json.org/">
+    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+</a>
+
+<!-- Data Processing & Visualisation -->
+<a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</a>
+<a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</a>
+<a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+</a>
+<a href="https://pymupdf.readthedocs.io/">
+    <img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMuPDF" />
+</a>
+
+<!-- Deployment & Environment -->
+<a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</a>
 <a href="https://pypi.org/project/python-dotenv/">
     <img src="https://img.shields.io/badge/python--dotenv-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-dotenv" />
 </a>
-
-<!-- Figma -->
-<!-- <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</a> -- >
-
-<!-- R -->
-<!-- <a href="https://www.r-project.org/">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</a> -->
+<a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</a>
 
 </p>
 
