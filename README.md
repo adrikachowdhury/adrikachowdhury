@@ -5,7 +5,7 @@
     <ul align="left" style="list-style-type: none; padding-left: 0;">
       <li>🎓 Computer Science graduate from <b>Asian University for Women (AUW)</b></li>
       <li>💻 <b>NLP & GenAI Enthusiast</b></li>
-      <li>🌱 Currently working on a <b>project to learn relevant skills</b></li>
+      <li>🌱 Currently working on <b>projects to learn relevant skills</b></li>
       <li>🚀 <b>Future Goal:</b> To build impactful AI solutions for real-world problems</li>
       <li>🤝 Eager to learn by collaborating on impactful projects</li>
       <!-- <li>🛠️ <b>Core Technical Skills</b>:</li> -->
